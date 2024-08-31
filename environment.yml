@@ -1,0 +1,12 @@
+name: aae-451
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - ipympl
+  - sympy
+  - jupyter
+  - control
