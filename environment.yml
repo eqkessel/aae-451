@@ -10,3 +10,4 @@ dependencies:
   - sympy
   - jupyter
   - control
+  - statsmodels
